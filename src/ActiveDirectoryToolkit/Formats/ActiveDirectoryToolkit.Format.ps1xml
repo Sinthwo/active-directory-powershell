@@ -1,0 +1,14 @@
+<#
+    .SYNOPSIS
+        Custom format definitions for AD Toolkit output objects
+
+    .DESCRIPTION
+        Defines custom table, list, and wide view formats for objects returned by the
+        module's public functions, improving readability of reports and status outputs.
+
+    .VERSION
+        0.1.0
+
+    .AUTHOR
+        Sinthwo
+#>

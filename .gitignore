@@ -1,0 +1,22 @@
+# PowerShell artifacts
+*.ps1xml.bak
+*.psm1.bak
+*.psd1.bak
+
+# Test and build output
+TestResults/
+coverage/
+*.trx
+*.xml
+
+# Logs and exports
+logs/
+*.log
+*.csv
+*.clixml
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
